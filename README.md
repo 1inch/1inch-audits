@@ -4,6 +4,17 @@
 ### [MixBytes](https://raw.githubusercontent.com/1inch/1inch-audits/master/Aggregation%20Protocol%20V3/MixBytes%20-%201inch%20v3%20Audit%20Report.pdf)
 ### [Igor Gulamov](https://raw.githubusercontent.com/1inch/1inch-audits/master/Aggregation%20Protocol%20V3/Gulamov%20-%201inch%20v3%20Audit%20Report.pdf)
 
+# Liquidity Protocol
+
+### [Certik](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Certik%20-%201inch%20Liquidity%20Protocol%20audit.pdf)
+### [Chainsulting](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Chainsulting%20-%201inch%20Liquidity%20Protocol%20Audit.pdf)
+### [Consensys](https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/)
+### [Coinfabrik](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Coinfabrik%20-%201inch%20Liquidity%20Protocol%20Audit.pdf)
+### [Cure53](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Cure53%20-%201inch%20Liquidity%20Protocol%20audit.pdf)
+### [Igor Gulamov](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Gulamov%20-%201inch%20Liquidity%20Protocol%20audit.pdf)
+### [MixBytes](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/MixBytes%20-%201inch%20Liquidity%20Protocol%20Report.pdf)
+### [OpenZeppelin](https://blog.openzeppelin.com/mooniswap-v2-audit/)
+
 # Aggregation Protocol v2
 
 ### [Certik](https://raw.githubusercontent.com/1inch/1inch-audits/master/Aggregation%20Protocol%20V2/Certik%20-%201inch%20v2%20Audit%20Report.pdf)
