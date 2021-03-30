@@ -4,6 +4,11 @@
 ### [MixBytes](https://raw.githubusercontent.com/1inch/1inch-audits/master/Aggregation%20Protocol%20V3/MixBytes%20-%201inch%20v3%20Audit%20Report.pdf)
 ### [Igor Gulamov](https://raw.githubusercontent.com/1inch/1inch-audits/master/Aggregation%20Protocol%20V3/Gulamov%20-%201inch%20v3%20Audit%20Report.pdf)
 
+## Farming
+
+### [iosiro](https://iosiro.com/audits/1inch-exchange-staking-rewards-smart-contract-audit)
+### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/master/Liquidity%20Protocol/Farming/Gulamov%20-%201inch%20Farming%20audit.pdf)
+
 # Liquidity Protocol
 
 ### [Certik](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Certik%20-%201inch%20Liquidity%20Protocol%20audit.pdf)
