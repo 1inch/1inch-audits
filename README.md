@@ -9,6 +9,14 @@
 ### MixBytes
 ### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol/Pessimistic%20-%201inch%20Limit%20Order%20Protocol%20audit.pdf)
 
+# Vesting Contract
+
+### [Chainsulting](https://github.com/1inch/1inch-audits/raw/master/Vesting%20Contract/Chainsulting%20-%201inch%20Vesting%20Contract%20audit.pdf)
+### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Vesting%20Contract/Coinfabrik%20-%201inch%20Vesting%20Contract%20audit.pdf)
+### [iosiro](https://iosiro.com/audits/1inch-network-step-vesting-smart-contract-audit)
+### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/master/Vesting%20Contract/Gulamov%20-%201inch%20Vesting%20Contract%20audit.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Vesting%20Contract/Pessimistic%20-%201inch%20Vesting%20Contract%20audit.pdf)
+
 # Aggregation Protocol v3
 
 ### [Certik](https://raw.githubusercontent.com/1inch/1inch-audits/master/Aggregation%20Protocol%20V3/Certik%20-%201inch%20v3%20Audit%20Report.pdf)
