@@ -19,8 +19,8 @@
 
 ### [Certik](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Certik%20-%201inch%20Liquidity%20Protocol%20audit.pdf)
 ### [Chainsulting](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Chainsulting%20-%201inch%20Liquidity%20Protocol%20Audit.pdf)
-### [Consensys](https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/)
 ### [Coinfabrik](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Coinfabrik%20-%201inch%20Liquidity%20Protocol%20Audit.pdf)
+### [Consensys](https://consensys.net/diligence/audits/2020/12/1inch-liquidity-protocol/)
 ### [Cure53](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Cure53%20-%201inch%20Liquidity%20Protocol%20audit.pdf)
 ### [Igor Gulamov](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/Gulamov%20-%201inch%20Liquidity%20Protocol%20audit.pdf)
 ### [MixBytes](https://raw.githubusercontent.com/1inch/1inch-audits/master/Liquidity%20Protocol/MixBytes%20-%201inch%20Liquidity%20Protocol%20Report.pdf)
