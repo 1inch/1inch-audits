@@ -1,3 +1,14 @@
+# Limit Order Protocol
+
+### [ABDK](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol/ABDK%20-%201inch%20Limit%20Order%20Protocol%20audit.pdf)
+### [Chainsulting](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol/Chainsulting%20-%201inch%20Limit%20Order%20Protocol%20audit.pdf)
+### Coinfabrik
+### [Coinspect](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol/Coinspect%20-%201inch%20Limit%20Order%20Protocol%20audit.pdf)
+### Igor Gulamov
+### [iosiro](https://iosiro.com/audits/1inch-network-limit-order-protocol-smart-contract-audit)
+### MixBytes
+### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol/Pessimistic%20-%201inch%20Limit%20Order%20Protocol%20audit.pdf)
+
 # Aggregation Protocol v3
 
 ### [Certik](https://raw.githubusercontent.com/1inch/1inch-audits/master/Aggregation%20Protocol%20V3/Certik%20-%201inch%20v3%20Audit%20Report.pdf)
