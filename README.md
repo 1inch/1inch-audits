@@ -8,13 +8,13 @@ This repo contains audit report for various smart contracts developed be 1inch N
 # Aggregation Protocol v4
 
 ### [ABDK](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Protocol%20V4/ABDK_1inch_AggregationRouter_Solidity_.pdf)
-### [Chainsulting](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Protocol%20V4/02_Smart%20Contract%20Audit_1inch_Router_RFQ_V4_Chainsulting.pdf)
-### [Coinfabrik](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20v4%20Audit_Coinfabrik.pdf)
+### [Chainsulting](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V4/02_Smart%20Contract%20Audit_1inch_Router_RFQ_V4_Chainsulting.pdf)
+### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20v4%20Audit_Coinfabrik.pdf)
 ### [IgorGulamov]
 ### [iosiro](https://iosiro.com/audits/1inch-network-limit-order-protocol-smart-contract-audit)
-### [Mixbites](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Protocol%20V4/1Inch%20Aggregation%20Router%20V4%20Security%20Audit%20Report_MixBites.pdf)
-### [Pessimistic](https://github.com/1inch/1inchaudits/blob/master/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20V4%20Security%20Analysis%20by%20Pessimistic_.pdf)
-### [Consensys](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Protocol%20V4/Consensys_1inch-exchange-audit-2021-09.pdf)
+### [Mixbites](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Aggregation%20Protocol%20V4/1Inch%20Aggregation%20Router%20V4%20Security%20Audit%20Report_MixBites.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/blob/curlyjannie-Audits-editing/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20V4%20Security%20Analysis%20by%20Pessimistic_.pdf)
+### [Consensys](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Aggregation%20Protocol%20V4/Consensys_1inch-exchange-audit-2021-09.pdf)
 
 
 # Limit Order Protocol
