@@ -15,6 +15,13 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Pessimistic](https://github.com/1inch/1inch-audits/blob/curlyjannie-Audits-editing/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20V4%20Security%20Analysis%20by%20Pessimistic_.pdf)
 ### [Consensys](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Aggregation%20Protocol%20V4/Consensys_1inch-exchange-audit-2021-09.pdf)
 
+# Fixed Rate Swap v2
+
+### [Aсkee Blockchain](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/Fixed%20Rate%20Swap%20-%20Ackee%20Blockchain%20Audit.pdf)
+### [Chainsulting](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits/editing/Fixed%20Rate%20Swap%20V1/02_Smart%20Contract%20Audit_1inch_FixedRateSwap.pdf)
+### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/2021-08%20-%201inch%20Audit%20-%20FixedRateSwap.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap%20Security%20Analysis.pdf)
+### [MixedBites](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/FixedFeeSwap%20Security%20Audit%20Report.pdf)
 
 # Limit Order Protocol
 
