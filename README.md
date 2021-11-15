@@ -29,7 +29,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Chainsulting](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol/Chainsulting%20-%201inch%20Limit%20Order%20Protocol%20audit.pdf)
 ### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol/Coinfabrik%20-%201inch%20Limit%20Order%20Protocol%20audit.pdf)
 ### [Coinspect](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol/Coinspect%20-%201inch%20Limit%20Order%20Protocol%20audit.pdf)
-### Igor Gulamov
+### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Limit%20Order%20Protocol/LimitSwap%20audit.pdf)
 ### [iosiro](https://iosiro.com/audits/1inch-network-limit-order-protocol-smart-contract-audit)
 ### MixBytes
 ### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol/Pessimistic%20-%201inch%20Limit%20Order%20Protocol%20audit.pdf)
