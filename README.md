@@ -7,13 +7,13 @@ This repo contains audit report for various smart contracts developed be 1inch N
 
 # Limit Order Protocol V2
 
-### [ABDK](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Limit%20Order%20Protocol%20V2/ABDK_1inch_OrderMixin_v_1_0.pdf)
-### [Chainsulting](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Limit%20Order%20Protocol%20V2/02_Smart%20Contract%20Audit_1inch_limit_order_protocol_v2.pdf)
-### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Limit%20Order%20Protocol%20V2/2021-09%20LimitOrderProtocol%20Solidity%20Compiler%20Downgrade.pdf)
-### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Limit%20Order%20Protocol%20V2/1inch%20limit%20order%20protocol%20audit.pdf)
+### [ABDK](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol%20V2/1Inch%20Limit%20Order%20Protocol_ABDK.pdf)
+### [Chainsulting](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol%20V2/1Inch%20Limit%20Order%20Protocol_Chainsulting.pdf)
+### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol%20V2/1Inch%20Limit%20Order%20Protocol_CoinFabrik.pdf)
+### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol%20V2/1Inch%20Limit%20Order%20Protocol_IgorGulamov.pdf)
 ### [iosiro]()
-### [MixBytes](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Limit%20Order%20Protocol%20V2/1Inch%20Limit%20Order%20Protocol%20SCA.pdf)
-### [Pessimistic](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Limit%20Order%20Protocol%20V2/1inch%20Limit%20Order%20protocol%20Security%20Recheck%20by%20Pessimistic.pdf)
+### [MixBytes](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol%20V2/1Inch%20Limit%20Order%20Protocol_MixBytes.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol%20V2/1Inch%20Limit%20Order%20Protocol_Pessimistic.pdf)
 
 # Aggregation Protocol v4
 
