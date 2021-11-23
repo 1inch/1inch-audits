@@ -25,7 +25,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Pessimistic](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20v4%20Audit_Pessimistic.pdf)
 ### [Consensys](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20v4%20Audit_Consensys.pdf)
 
-# Fixed Rate Swap v2
+# Fixed Rate Swap v1
 
 ### [Aсkee Blockchain](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/Fixed%20Rate%20Swap%20-%20Ackee%20Blockchain%20Audit.pdf)
 ### [Chainsulting](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/02_Smart%20Contract%20Audit_1inch_FixedRateSwap.pdf)
