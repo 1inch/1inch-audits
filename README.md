@@ -27,11 +27,11 @@ This repo contains audit report for various smart contracts developed be 1inch N
 
 # Fixed Rate Swap v1
 
-### [Aсkee Blockchain](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/Fixed%20Rate%20Swap%20-%20Ackee%20Blockchain%20Audit.pdf)
-### [Chainsulting](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/02_Smart%20Contract%20Audit_1inch_FixedRateSwap.pdf)
-### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/2021-08%20-%201inch%20Audit%20-%20FixedRateSwap.pdf)
-### [Pessimistic](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap%20Security%20Analysis.pdf)
-### [MixedBites](https://github.com/1inch/1inch-audits/raw/curlyjannie-Audits-editing/Fixed%20Rate%20Swap%20V1/FixedFeeSwap%20Security%20Audit%20Report.pdf)
+### [Aсkee Blockchain](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_Ackee%20Blockchain.pdf)
+### [Chainsulting](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_Chainsulting.pdf)
+### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_CoinFabrik.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_Pessimistic.pdf)
+### [MixedBites](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_MixedBytes.pdf)
 ### [iosiro](https://iosiro.com/audits/1inch-network-fixed-rate-swap-smart-contract-audit)
 
 # Limit Order Protocol
