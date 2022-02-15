@@ -86,6 +86,13 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [iosiro](https://iosiro.com/audits/1inch-exchange-staking-rewards-smart-contract-audit)
 ### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/master/Liquidity%20Protocol/Farming/Gulamov%20-%201inch%20Farming%20audit.pdf)
 
+# Multi-Farming Contracts
+
+### [Aсkee Blockchain](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_AckeeBlockchain.pdf)
+### [Coinfabrik](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_CoinFabrik.pdf)
+### [Peckschield](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_Peckshield.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_Pessimistic.pdf)
+
 # Aggregation Protocol v2
 
 ### [Certik](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V2/Certik%20-%201inch%20v2%20Audit%20Report.pdf)
