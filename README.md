@@ -39,7 +39,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 
 ### [Aсkee Blockchain](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Fixed%20Rate%20Swap%20V2/1inch%20FixedRateSwapV2_Ackee%20Blockchain.pdf)
 ### [Coinfabrik](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Fixed%20Rate%20Swap%20V2/1inch%20FixedRateSwapV2_CoinFabrik.pdf)
-### [Gulamov](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Fixed%20Rate%20Swap%20V2/1inch%20FixedRateSwapV2_Gulamov.md)
+### [Gulamov](https://github.com/1inch/1inch-audits/raw/curlyjannie-patch-1/Fixed%20Rate%20Swap%20V2/1inch%20FixedRateSwapV2_Gulamov.pdf)
 ### [Pessimistic](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Fixed%20Rate%20Swap%20V2/1inch%20FixedRateSwapV2_Pessimistic.pdf.pdf)
 ### [MixedBytes](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Fixed%20Rate%20Swap%20V2/1inch%20FixedRateSwapV2_MixBytes.pdf)
 ### [iosiro](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Fixed%20Rate%20Swap%20V2/1inch%20FixedRateSwapV2_Iosiro.pdf)
