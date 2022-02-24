@@ -94,6 +94,15 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Pessimistic](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_Pessimistic.pdf)
 ### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_Gulamov.pdf)
 
+# MerkleDrop Audit
+
+### [Adoriasoft](https://github.com/1inch/1inch-audits/raw/curlyjannie-patch-1/Merkle%20Drop%20Audit/1inch%20MerkleDrop%20Audit_Adoriasoft.pdf)
+### [MixBytes](https://github.com/1inch/1inch-audits/raw/curlyjannie-patch-1/Merkle%20Drop%20Audit/1Inch%20MerkleDrop%20Audit_MixBytes.pdf)
+### [Chainsulting](https://github.com/1inch/1inch-audits/raw/curlyjannie-patch-1/Merkle%20Drop%20Audit/1inch%20MerkleDrop%20Audit_Chainsulting.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/raw/curlyjannie-patch-1/Merkle%20Drop%20Audit/1inch%20MerkleDrop%20Audit_Pessimistic.pdf)
+### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/curlyjannie-patch-1/Merkle%20Drop%20Audit/1inch%20MerkleDrop%20Audit_IgorGulamov.pdf)
+
+
 # Aggregation Protocol v2
 
 ### [Certik](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V2/Certik%20-%201inch%20v2%20Audit%20Report.pdf)
