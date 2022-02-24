@@ -92,6 +92,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Coinfabrik](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_CoinFabrik.pdf)
 ### [Peckschield](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_Peckshield.pdf)
 ### [Pessimistic](https://github.com/1inch/1inch-audits/blob/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_Pessimistic.pdf)
+### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/curlyjannie-patch-1/Multi-Farming%20Contracts/1inch%20Multi-Farming%20Audit_Gulamov.pdf)
 
 # Aggregation Protocol v2
 
