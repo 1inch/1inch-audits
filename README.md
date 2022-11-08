@@ -6,6 +6,18 @@
 # 1inch smart contracts audit reports
 This repo contains audit report for various smart contracts developed be 1inch Network.
 
+# Aggregation Protocol v5 and Limit Order Protocol V3
+
+### [ABDK](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V5/1inch%20Aggregation%20Router%20V5_ABDK%20Consulting.pdf)
+### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V5/1inch%20Aggregation%20Router%20V5_CoinFabrik.pdf)
+### [Consensys](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V5/1inch%20Aggregation%20Router%20V5_Consensys.pdf)
+### [IgorGulamov](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V5/1inch%20Aggregation%20Router%20V5_IgorGulamov.pdf)
+### [OpenZepplin](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V4/1Inch%20Aggregation%20Router%20v4%20Audit_MixBites.pdf)
+### [PeckShield](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V5/1inch%20Aggregation%20Router%20V5_PeckShield.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V5/1inch%20Aggregation%20Router%20V5_Pessimistic.pdf)
+### [Zokyo](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V5/1inch%20Aggregation%20Router%20V5_Zokyo.pdf)
+
+
 # Limit Order Protocol V2
 
 ### [ABDK](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol%20V2/1Inch%20Limit%20Order%20Protocol_ABDK.pdf)
