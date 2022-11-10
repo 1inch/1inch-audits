@@ -15,6 +15,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [OpenZepplin](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_OpenZepplin.pdf)
 ### [PeckShield](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_PeckShield.pdf)
 ### [Pessimistic](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_Pessimistic.pdf)
+### [Statemind](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_Statemind.pdf)
 ### [Zokyo](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_Zokyo.pdf)
 
 
