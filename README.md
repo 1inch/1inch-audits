@@ -12,6 +12,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_CoinFabrik.pdf)
 ### [Consensys](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_Consensys.pdf)
 ### [IgorGulamov](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_IgorGulamov.pdf)
+### [MixBytes](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_MixBytes.pdf)
 ### [OpenZepplin](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_OpenZepplin.pdf)
 ### [PeckShield](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_PeckShield.pdf)
 ### [Pessimistic](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_Pessimistic.pdf)
