@@ -19,6 +19,14 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Statemind](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_Statemind.pdf)
 ### [Zokyo](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_Zokyo.pdf)
 
+# Multi-Farming Contracts V3
+
+### [Chainsafe](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Chainsafe.pdf)
+### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_CoinFabrik.pdf)
+### [Decurity](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Decurity.pdf)
+### [IgorGulamov](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Gulamov.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Pessimistic.pdf)
+### [Smartstate](https://github.com/1inch/1inch-audits/blob/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Smartstate.pdf)
 
 # Limit Order Protocol V2
 
