@@ -49,6 +49,21 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Pessimistic](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20v4%20Audit_Pessimistic.pdf)
 ### [Consensys](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20v4%20Audit_Consensys.pdf)
 
+Fusion Mode
+
+### [ABDK](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_ABDK.pdf)
+### [ChainSecurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_ChainSecurity.pdf)
+### [Decurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Decurity.pdf)
+### [Hexens 1.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Hexens.1.pdf)
+### [Hexens 2.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Hexens.2.pdf)
+### [OpenZepplin 1.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_OpenZepplin.1.pdf)
+### [OpenZepplin 2.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_OpenZepplin.2.pdf)
+### [Oxorio](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Oxorio.pdf)
+### [Peckshield](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Peckshield.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Pessimistic.pdf)
+### [iosiro](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_iosiro.pdf)
+
+
 # Fixed Rate Swap v1
 
 ### [Aсkee Blockchain](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_Ackee%20Blockchain.pdf)
