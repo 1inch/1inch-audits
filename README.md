@@ -11,7 +11,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [ABDK](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_ABDK%20Consulting.pdf)
 ### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_CoinFabrik.pdf)
 ### [Consensys](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_Consensys.pdf)
-### [IgorGulamov](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_IgorGulamov.pdf)
+### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_IgorGulamov.pdf)
 ### [MixBytes](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_MixBytes.pdf)
 ### [OpenZepplin](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_OpenZepplin.pdf)
 ### [PeckShield](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V5%20and%20Limit%20Order%20Pr.V3/1inch%20Aggregation%20Router%20V5_PeckShield.pdf)
@@ -24,7 +24,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Chainsafe](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Chainsafe.pdf)
 ### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_CoinFabrik.pdf)
 ### [Decurity](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Decurity.pdf)
-### [IgorGulamov](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Gulamov.pdf)
+### [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Gulamov.pdf)
 ### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Pessimistic.pdf)
 ### [Smartstate](https://github.com/1inch/1inch-audits/blob/master/Multi-Farming%20Contracts%20V3/1inch%20Multi-Farming%20Contracts%20V3_Smartstate.pdf)
 
@@ -59,7 +59,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [OpenZepplin 1.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_OpenZepplin.1.pdf)
 ### [OpenZepplin 2.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_OpenZepplin.2.pdf)
 ### [Oxorio](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Oxorio.pdf)
-### [Peckshield](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Peckshield.pdf)
+### [PeckShield](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Peckshield.pdf)
 ### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Pessimistic.pdf)
 ### [iosiro](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_iosiro.pdf)
 
@@ -70,7 +70,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Chainsulting](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_Chainsulting.pdf)
 ### [Coinfabrik](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_CoinFabrik.pdf)
 ### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_Pessimistic.pdf)
-### [MixedBytes](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_MixedBytes.pdf)
+### [MixBytes](https://github.com/1inch/1inch-audits/raw/master/Fixed%20Rate%20Swap%20V1/1inch%20FixedRateSwap_MixedBytes.pdf)
 ### [iosiro](https://iosiro.com/audits/1inch-network-fixed-rate-swap-smart-contract-audit)
 
 # Limit Order Protocol
