@@ -53,7 +53,8 @@ This repo contains audit report for various smart contracts developed be 1inch N
 
 ### [ABDK](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_ABDK.pdf)
 ### [ChainSecurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_ChainSecurity.pdf)
-### [Decurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Decurity.pdf)
+### [Decurity 1.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Decurity.1.pdf)
+### [Decurity 2.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Decurity.2.pdf)
 ### [Hexens 1.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Hexens.1.pdf)
 ### [Hexens 2.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Hexens.2.pdf)
 ### [OpenZepplin 1.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_OpenZepplin.1.pdf)
