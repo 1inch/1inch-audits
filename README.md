@@ -51,7 +51,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 
 # Fusion Mode and ERC-20 Pods
 
-### [ABDK](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_ABDK.pdf)
+### [ABDK](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_ABDK.pdf)
 ### [ChainSecurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_ChainSecurity.pdf)
 ### [Decurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Decurity.pdf)
 ### [Hexens 1.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Hexens.1.pdf)
