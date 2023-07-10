@@ -52,16 +52,18 @@ This repo contains audit report for various smart contracts developed be 1inch N
 # Fusion Mode and ERC-20 Pods
 
 ### [ABDK](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_ABDK.pdf)
-### [ChainSecurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_ChainSecurity.pdf)
-### [Decurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Decurity.pdf)
-### [Hexens 1.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Hexens.1.pdf)
-### [Hexens 2.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Hexens.2.pdf)
-### [OpenZepplin 1.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_OpenZepplin.1.pdf)
-### [OpenZepplin 2.](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_OpenZepplin.2.pdf)
-### [Oxorio](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Oxorio.pdf)
-### [Peckshield](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Peckshield.pdf)
-### [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_Pessimistic.pdf)
-### [iosiro](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode/1inch_FusionMode_iosiro.pdf)
+### [ChainSecurity](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_ChainSecurity1.pdf)
+### [ChainSecurity2](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_ChainSecurity2.pdf)
+### [ChainSecurity3](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_ChainSecurity3.pdf)
+### [Decurity](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_Decurity.pdf)
+### [Hexens 1.](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_Hexens.1.pdf)
+### [Hexens 2.](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_Hexens.2.pdf)
+### [OpenZepplin 1.](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_OpenZepplin.1.pdf)
+### [OpenZepplin 2.](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_OpenZepplin.2.pdf)
+### [Oxorio](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_Oxorio.pdf)
+### [Peckshield](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_Peckshield.pdf)
+### [Pessimistic](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_Pessimistic.pdf)
+### [iosiro](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_iosiro.pdf)
 
 
 # Fixed Rate Swap v1
