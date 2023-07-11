@@ -49,7 +49,7 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [Pessimistic](https://github.com/1inch/1inch-audits/blob/master/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20v4%20Audit_Pessimistic.pdf)
 ### [Consensys](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V4/1inch%20Aggregation%20Router%20v4%20Audit_Consensys.pdf)
 
-# Fusion Mode and ERC-20 Pods
+# Fusion Mode and Token-plugins
 
 ### [ABDK](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_ABDK.pdf)
 ### [ChainSecurity](https://github.com/1inch/1inch-audits/blob/master/Fusion%20mode%20and%20ERC-20%20pods/1inch_FusionMode_ChainSecurity1.pdf)
