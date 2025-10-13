@@ -126,3 +126,14 @@ This repo contains audit report for various smart contracts developed be 1inch N
 ### [OpenZeppelin](https://blog.openzeppelin.com/1inch-exchange-audit/)
 ### [Scott Bigelow](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V2/Scott%20Bigelow%20-%201inch%20v2%20Audit%20Report.pdf)
 ### [Slowmist](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Protocol%20V2/Slowmist%20-%201inch%20v2%20Audit%20Report.pdf)
+
+# Solana Fusion v1
+
+### [Decurity](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20-%20Decurity%20v1.pdf)
+### [Hexens](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20-%20Hexens%20v1.pdf)
+### [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20-%20Open%20Zepplin%20v1.pdf)
+### [Ottersec](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20-%20Ottersec%20v1.pdf)
+### [Quantstamp](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20-%20Quantstamp%20v1.pdf)
+### [Zenith](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20-%20Zenith%20v1.01.pdf)
+### [Kudelski](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20v1_Kudelski.pdf)
+### [OffsideLabs](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20v1_OffsideLabs.pdf)
