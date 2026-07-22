@@ -11,7 +11,7 @@ This repository is the official archive of security audit reports for smart cont
 
 ## Contents
 
-- [AquaVM v1](#aquavm-v1)
+- [Aqua and SwapVM v1](#aqua-and-swapvm-v1)
 - [Aggregation Protocol v6 and Limit Order Protocol v4](#aggregation-protocol-v6-and-limit-order-protocol-v4)
 - [Aggregation Protocol v5 and Limit Order Protocol v3](#aggregation-protocol-v5-and-limit-order-protocol-v3)
 - [Aggregation Protocol v4](#aggregation-protocol-v4)
@@ -31,18 +31,18 @@ This repository is the official archive of security audit reports for smart cont
 - [Fixed Rate Swap v1](#fixed-rate-swap-v1)
 - [Vesting Contract](#vesting-contract)
 
-## AquaVM v1
+## Aqua and SwapVM v1
 
 Aqua — a shared liquidity layer where makers' funds stay in their own wallets while being available to multiple trading strategies — together with SwapVM, a programmable virtual machine that executes swaps defined as bytecode programs.
 
-- [Bailsec](https://github.com/1inch/1inch-audits/raw/master/AquaVM%20v1/AquaVMv1_Bailsec.pdf)
-- [Decurity](https://github.com/1inch/1inch-audits/raw/master/AquaVM%20v1/AquaVMv1_Decurity.pdf)
-- [Hashlock](https://github.com/1inch/1inch-audits/raw/master/AquaVM%20v1/AquaVMv1_Hashlock.pdf)
-- [Hexens](https://github.com/1inch/1inch-audits/raw/master/AquaVM%20v1/AquaVMv1_Hexens.pdf)
-- [MixBytes](https://github.com/1inch/1inch-audits/raw/master/AquaVM%20v1/AquaVMv1_Mixbytes.pdf)
-- [Nethermind](https://github.com/1inch/1inch-audits/raw/master/AquaVM%20v1/AquaVMv1_Nethermind.pdf)
-- [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/AquaVM%20v1/AquaVMv1_OpenZeppelin.pdf)
-- [Theori](https://github.com/1inch/1inch-audits/raw/master/AquaVM%20v1/AquaVMv1_Theori.pdf)
+- [Bailsec](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_Bailsec.pdf)
+- [Decurity](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_Decurity.pdf)
+- [Hashlock](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_Hashlock.pdf)
+- [Hexens](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_Hexens.pdf)
+- [MixBytes](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_Mixbytes.pdf)
+- [Nethermind](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_Nethermind.pdf)
+- [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_OpenZeppelin.pdf)
+- [Theori](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_Theori.pdf)
 
 ## Aggregation Protocol v6 and Limit Order Protocol v4
 
