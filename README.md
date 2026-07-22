@@ -11,6 +11,7 @@ This repository is the official archive of security audit reports for smart cont
 
 ## Contents
 
+- [Aggregation Protocol v6 and Limit Order Protocol v4](#aggregation-protocol-v6-and-limit-order-protocol-v4)
 - [Aggregation Protocol v5 and Limit Order Protocol v3](#aggregation-protocol-v5-and-limit-order-protocol-v3)
 - [Aggregation Protocol v4](#aggregation-protocol-v4)
 - [Aggregation Protocol v3](#aggregation-protocol-v3)
@@ -18,11 +19,41 @@ This repository is the official archive of security audit reports for smart cont
 - [Limit Order Protocol v2](#limit-order-protocol-v2)
 - [Limit Order Protocol v1](#limit-order-protocol-v1)
 - [Fusion Mode and Token Plugins](#fusion-mode-and-token-plugins)
+- [Fusion Settlement v2](#fusion-settlement-v2)
+- [Fees for Limit Orders and Fusion v1](#fees-for-limit-orders-and-fusion-v1)
+- [Cross-chain Protocol (Fusion+)](#cross-chain-protocol-fusion)
+- [Crosschain Fees v1.1](#crosschain-fees-v11)
 - [Solana Fusion v1](#solana-fusion-v1)
+- [Solana Cross-chain v1](#solana-cross-chain-v1)
 - [Multi-Farming Contracts v3](#multi-farming-contracts-v3)
 - [Liquidity Protocol](#liquidity-protocol)
 - [Fixed Rate Swap v1](#fixed-rate-swap-v1)
 - [Vesting Contract](#vesting-contract)
+
+## Aggregation Protocol v6 and Limit Order Protocol v4
+
+The sixth version of the Aggregation Router combined with the fourth version of the Limit Order Protocol in a single deployment, including the v6.1 and v6.2 updates.
+
+- Aggregation Router v6
+  - [Consensys](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6_Consensys.pdf)
+  - [Decurity](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6_Decurity.pdf)
+  - [Hexens](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6_Hexens.pdf)
+  - [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6_OpenZeppelin.pdf)
+  - [PeckShield](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6_PeckShield.pdf)
+  - [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6_Pessimistic.pdf)
+- Aggregation Router v6.1
+  - [Decurity](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6.1_Decurity.pdf)
+  - [Hexens](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6.1_Hexens.pdf)
+  - [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6.1_OpenZeppelin.pdf)
+  - [PeckShield](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6.1_PeckShield.pdf)
+- Aggregation Router v6.2
+  - [Decurity](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6.2_Decurity.pdf)
+  - [Hexens](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6.2_Hexens.pdf)
+  - [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Aggregation%20Router%20V6.2_Pessimistic.pdf)
+- Limit Order Protocol v4
+  - [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Limit%20Order%20Protocol%20v4_OpenZeppelin.pdf)
+- Limit Order Protocol v4.1
+  - [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Aggregation%20Pr.%20V6%20and%20Limit%20Order%20Pr.V4/1inch%20Limit%20Order%20Protocol%20v4.1_OpenZeppelin.pdf)
 
 ## Aggregation Protocol v5 and Limit Order Protocol v3
 
@@ -117,6 +148,64 @@ Fusion mode — intent-based swaps settled by resolvers — together with the to
 - [PeckShield](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode%20and%20Token-plugins/1inch_FusionMode_Peckshield.pdf)
 - [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Fusion%20mode%20and%20Token-plugins/1inch_FusionMode_Pessimistic.pdf)
 
+## Fusion Settlement v2
+
+The second version of the Fusion settlement contracts, which fill signed orders through resolvers, including the v2.1 update.
+
+- Settlement v2
+  - [Decurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2_Decurity.pdf)
+  - [Hexens](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2_Hexens.pdf)
+  - [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2_Open%20Zeppelin.pdf)
+  - [PeckShield](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2_Peckshield.pdf)
+  - [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2_Pessimistic.pdf)
+- Settlement v2.1
+  - [AstraSec](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2.1_AstraSec.pdf)
+  - [Decurity](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2.1_Decurity.pdf)
+  - [Hexens](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2.1_Hexens.pdf)
+  - [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2.1_Open%20Zepplin.pdf)
+  - [Pashov](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2.1_Pashov.pdf)
+  - [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Fusion%20Settlement%20V2/1inch%20Settlement%20v2.1_Pessemistic.pdf)
+
+## Fees for Limit Orders and Fusion v1
+
+Fee flow contracts that introduce protocol fees for the Limit Order Protocol and Fusion.
+
+- [AstraSec](https://github.com/1inch/1inch-audits/raw/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-AstraSec.pdf)
+- [Bailsec](https://github.com/1inch/1inch-audits/raw/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Bailsec.pdf)
+- [ChainLight](https://github.com/1inch/1inch-audits/raw/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-ChainLight.pdf)
+- [Decurity](https://github.com/1inch/1inch-audits/raw/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Decurity.pdf)
+- [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Open%20Zepplin.pdf)
+- [Sherlock](https://github.com/1inch/1inch-audits/raw/master/Fees%20for%20LO%20and%20Fusion%20V1/Fee%20flow%20v1-Sherlock.pdf)
+
+## Cross-chain Protocol (Fusion+)
+
+1inch Fusion+ — cross-chain atomic swaps built on escrow contracts, versions 1 and 2.
+
+- Cross-chain Swap v1
+  - [AstraSec](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-swap-v1-AstraSec.pdf)
+  - [Consensys](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-swap-v1-Consensys.pdf)
+  - [Decurity](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-swap-v1-Decurity.pdf)
+  - [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-swap-v1-Igor%20Gulamov.pdf)
+  - [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-swap-v1-Open%20Zeppelin.pdf)
+  - [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-swap-v1-Pessimistic.pdf)
+- Cross-chain Swap v2
+  - [AstraSec](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-v2-Astrasec.pdf)
+  - [Consensys](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-v2-Consensys.pdf)
+  - [Decurity](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-v2-Decurity.pdf)
+  - [Igor Gulamov](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-v2-Igor%20Gulamov.pdf)
+  - [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-v2-Open%20Zeppelin.pdf)
+  - [Pessimistic](https://github.com/1inch/1inch-audits/raw/master/Cross-chain%20Protocol/1inch-cross-chain-v2-Pessimistic.pdf)
+
+## Crosschain Fees v1.1
+
+Protocol fee support for the cross-chain (Fusion+) swaps.
+
+- [Certora](https://github.com/1inch/1inch-audits/raw/master/Crosschain%20fees%20v1.1/1inch%20Crosschain%20Fee%20v1.1_Certora.pdf)
+- [Decurity](https://github.com/1inch/1inch-audits/raw/master/Crosschain%20fees%20v1.1/1inch%20Crosschain%20Fee%20v1.1_Decurity.pdf)
+- [Hexens](https://github.com/1inch/1inch-audits/raw/master/Crosschain%20fees%20v1.1/1inch%20Crosschain%20Fee%20v1.1_Hexens.pdf)
+- [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Crosschain%20fees%20v1.1/1inch%20Crosschain%20Fee%20v1.1_Open%20Zeppelin.pdf)
+- [Sherlock](https://github.com/1inch/1inch-audits/raw/master/Crosschain%20fees%20v1.1/1inch%20Crosschain%20Fee%20v1.1_Sherlock.pdf)
+
 ## Solana Fusion v1
 
 The first version of the Fusion swap protocol on Solana.
@@ -129,6 +218,23 @@ The first version of the Fusion swap protocol on Solana.
 - [OtterSec](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20-%20Ottersec%20v1.pdf)
 - [Quantstamp](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20-%20Quantstamp%20v1.pdf)
 - [Zenith](https://github.com/1inch/1inch-audits/raw/master/Solana%20Fusion%20v1/Solana%20Fusion%20-%20Zenith%20v1.01.pdf)
+
+## Solana Cross-chain v1
+
+The Solana implementation of the cross-chain (Fusion+) protocol, versions 1.0 and 1.1.
+
+- Solana Cross-chain v1.0
+  - [Decurity](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.0_Decurity.pdf)
+  - [Hexens](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.0-Hexens.pdf)
+  - [Offside Labs](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.0_OffsideLabs.pdf)
+  - [Sherlock](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.0_Sherlock.pdf)
+  - [Zenith](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.0-Zenith.pdf)
+- Solana Cross-chain v1.1
+  - [Decurity](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.1_Decurity.pdf)
+  - [Hexens](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.1_Hexens.pdf)
+  - [Offside Labs](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.1_OffsideLabs.pdf)
+  - [Sherlock](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.1_Sherlock.pdf)
+  - [Zenith](https://github.com/1inch/1inch-audits/raw/master/Solana%20cross-chain%20v1/Solana%20cross-chain%20v1.1_Zenith.pdf)
 
 ## Multi-Farming Contracts v3
 
