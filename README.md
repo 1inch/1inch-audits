@@ -1,6 +1,8 @@
 <div align="center">
-    <img src="https://github.com/1inch/farming/blob/master/.github/1inch_github_w.svg#gh-light-mode-only">
-    <img src="https://github.com/1inch/farming/blob/master/.github/1inch_github_b.svg#gh-dark-mode-only">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=".github/1inch_logo_white.svg">
+        <img src=".github/1inch_logo_black.svg" alt="1inch" width="300">
+    </picture>
 </div>
 
 # 1inch smart contracts audit reports
