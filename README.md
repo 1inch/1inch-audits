@@ -11,6 +11,7 @@ This repository is the official archive of security audit reports for smart cont
 
 ## Contents
 
+- [Aqua and SwapVM v1.0.2](#aqua-and-swapvm-v102)
 - [Aqua and SwapVM v1](#aqua-and-swapvm-v1)
 - [Aggregation Protocol v6 and Limit Order Protocol v4](#aggregation-protocol-v6-and-limit-order-protocol-v4)
 - [Aggregation Protocol v5 and Limit Order Protocol v3](#aggregation-protocol-v5-and-limit-order-protocol-v3)
@@ -30,6 +31,16 @@ This repository is the official archive of security audit reports for smart cont
 - [Liquidity Protocol](#liquidity-protocol)
 - [Fixed Rate Swap v1](#fixed-rate-swap-v1)
 - [Vesting Contract](#vesting-contract)
+
+## Aqua and SwapVM v1.0.2
+
+Differential review of the SwapVM v1.0.2 update, covering the changes to the `Fee` instruction that introduce best-effort Aqua protocol fee collection.
+
+- [Bailsec](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1.0.2/Aqua_SwapVM_v1.0.2_Bailsec.pdf)
+- [Decurity](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1.0.2/Aqua_SwapVM_v1.0.2_Decurity.pdf)
+- [MixBytes](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1.0.2/Aqua_SwapVM_v1.0.2_Mixbytes.pdf)
+- [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1.0.2/Aqua_SwapVM_v1.0.2_OpenZeppelin.pdf)
+- [Theori](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1.0.2/Aqua_SwapVM_v1.0.2_Theori.pdf)
 
 ## Aqua and SwapVM v1
 
