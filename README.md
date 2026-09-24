@@ -13,6 +13,7 @@ This repository is the official archive of security audit reports for smart cont
 
 - [Aqua and SwapVM v1.0.2](#aqua-and-swapvm-v102)
 - [Aqua and SwapVM v1](#aqua-and-swapvm-v1)
+- [Limit Order Protocol v4.3.4](#limit-order-protocol-v434)
 - [Aggregation Protocol v6 and Limit Order Protocol v4](#aggregation-protocol-v6-and-limit-order-protocol-v4)
 - [Aggregation Protocol v5 and Limit Order Protocol v3](#aggregation-protocol-v5-and-limit-order-protocol-v3)
 - [Aggregation Protocol v4](#aggregation-protocol-v4)
@@ -54,6 +55,12 @@ Aqua — a shared liquidity layer where makers' funds stay in their own wallets 
 - [Nethermind](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_Nethermind.pdf)
 - [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_OpenZeppelin.pdf)
 - [Theori](https://github.com/1inch/1inch-audits/raw/master/Aqua%20and%20SwapVM%20v1/Aqua_SwapVM_v1_Theori.pdf)
+
+## Limit Order Protocol v4.3.4
+
+The Permit2Proxy extension for the Limit Order Protocol — a simpler Permit2 integration without witness data, used to transfer maker and taker assets via Permit2 signature transfers.
+
+- [OpenZeppelin](https://github.com/1inch/1inch-audits/raw/master/Limit%20Order%20Protocol%20v4.3.4/1inch%20Limit%20Order%20Protocol%20v4.3.4_OpenZeppelin.pdf)
 
 ## Aggregation Protocol v6 and Limit Order Protocol v4
 
